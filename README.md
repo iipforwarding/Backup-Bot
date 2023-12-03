@@ -19,7 +19,7 @@ Para poder instalar este repositorio tienes que instalar los modulos
     
 ## Soporte
 
-para mas soporte me envias un mensaje por discord (Soporte)[https://discord.gg/uXWvecbax3]
+para mas soporte me envias un mensaje por discord https://discord.gg/uXWvecbax3
 
 
 ## Features
