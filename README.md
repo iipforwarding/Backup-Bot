@@ -19,7 +19,7 @@ Para poder instalar este repositorio tienes que instalar los modulos
     
 ## Soporte
 
-para mas soporte me envias un mensaje por discord "ipforward"
+para mas soporte me envias un mensaje por discord (Soporte)[[https://discord.gg/](https://discord.gg/uXWvecbax3)]
 
 
 ## Features
