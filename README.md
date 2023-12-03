@@ -13,7 +13,7 @@ Este simple codigo de copia de seguridad para tu servidor de discord solo tiene 
 Para poder instalar este repositorio tienes que instalar los modulos
 
 ```bash
-  npm install discord.js discord-backup express
+  npm install
   cd Discord-Bot
 ```
     
